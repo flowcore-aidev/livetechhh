@@ -1,0 +1,1 @@
+// Contents of routes/admin.js
